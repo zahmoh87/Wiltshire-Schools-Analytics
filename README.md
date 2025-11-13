@@ -30,7 +30,7 @@ An end-to-end data analytics project exploring school performance in Wiltshire u
 - Practice dashboard interactivity and layout polish
 
 - ## 📷 Preview
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](assets/Dashboard.png)
 
 ## 💼 Author
 Zaher — aspiring AWS Data Engineer focused on public sector analytics and cloud ETL pipelines.
